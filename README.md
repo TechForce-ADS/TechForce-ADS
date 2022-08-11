@@ -6,12 +6,12 @@ Grupo de API da FATEC de SJC
  
 <table align="center" border="1">
     <tr>
-        <td>nome</td>
-        <td>Idade</td>
-        <td>Profissão</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>SRUM MASTER</td>
+        <td>Product Owner</td>
+        <td>SCRUM TEAM</td>
+        <td>SCRUM TEAM</td>
+        <td>SCRUM TEAM</td>
+        <td>SCRUM TEAM</td>
     </tr>
     <tr>
         <td>Marina Angela</td>
