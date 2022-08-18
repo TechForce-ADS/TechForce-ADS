@@ -23,8 +23,7 @@ Grupo de API da FATEC de SJC
      <td>Ali Mohammed</td>
      <td>Pedro Seraggi</td>
      <td>João Pedro Rezende</td>
-     <td>Rita Hecht</td>
-     <td>Isabela Silva</td>
+
     </tr>
 </table>
 
