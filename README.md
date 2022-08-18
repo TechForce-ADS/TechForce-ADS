@@ -13,14 +13,18 @@ Grupo de API da FATEC de SJC
         <td>SCRUM TEAM</td>
         <td>SCRUM TEAM</td>
         <td>SCRUM TEAM</td>
+        <td>SCRUM TEAM</td>
+        <td>SCRUM TEAM</td>
     </tr>
     <tr>
         <td>Marina Angela</td>
         <td>Ítalo Nascimento</td>
         <td>Debora Taira</td>
         <td>Ali Mohammed</td>
-        <td>Felipe Bispo</td>
-        <td>Pedro Serragi</td>
-        <td>João</td>
+        <td>Pedro Seraggi</td>
+        <td>João Pedro Rezende</td>
+        <td>Rita Hecht</td>
+        <td>Isabela Silva</td>
     </tr>
 </table>
+
