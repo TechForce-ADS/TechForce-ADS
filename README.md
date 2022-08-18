@@ -13,8 +13,7 @@ Grupo de API da FATEC de SJC
      <td>SCRUM TEAM</td>
      <td>SCRUM TEAM</td>
      <td>SCRUM TEAM</td>
-     <td>SCRUM TEAM</td>
-     <td> SCRUM TEAM</td>
+
     </tr>
     <tr>
      <td>Marina Angela</td>
