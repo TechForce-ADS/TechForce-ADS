@@ -6,25 +6,25 @@ Grupo de API da FATEC de SJC
  
 <table align="center" border="1">
     <tr>
-        <td>SRUM MASTER</td>
-        <td>Product Owner</td>
-        <td>SCRUM TEAM</td>
-        <td>SCRUM TEAM</td>
-        <td>SCRUM TEAM</td>
-        <td>SCRUM TEAM</td>
-        <td>SCRUM TEAM</td>
-        <td>SCRUM TEAM</td>
-    
+     <td>SRUM MASTER</td>
+     <td>Product Owner</td>
+     <td>SCRUM TEAM</td>
+     <td>SCRUM TEAM</td>
+     <td>SCRUM TEAM</td>
+     <td>SCRUM TEAM</td>
+     <td>SCRUM TEAM</td>
+     <td>SCRUM TEAM</td>
+     <td> SCRUM TEAM</td>
     </tr>
     <tr>
-        <td>Marina Angela</td>
-        <td>Ítalo Nascimento</td>
-        <td>Debora Taira</td>
-        <td>Ali Mohammed</td>
-        <td>Pedro Seraggi</td>
-        <td>João Pedro Rezende</td>
-        <td>Rita Hecht</td>
-        <td>Isabela Silva</td>
+     <td>Marina Angela</td>
+     <td>Ítalo Nascimento</td>
+     <td>Debora Taira</td>
+     <td>Ali Mohammed</td>
+     <td>Pedro Seraggi</td>
+     <td>João Pedro Rezende</td>
+     <td>Rita Hecht</td>
+     <td>Isabela Silva</td>
     </tr>
 </table>
 
