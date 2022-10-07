@@ -23,7 +23,7 @@ Grupo de API da FATEC de SJC
         <td>Pedro Seraggi</td>
         <td>João Pedro Rezende</td>
         <td>Rita Hecht</td>
-        <td>Isabela Silva</td>
+        <td>Brener Freire</td>
     </tr>
 </table>
 
