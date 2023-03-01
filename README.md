@@ -13,9 +13,7 @@ Grupo de API da FATEC de SJC
         <td>SCRUM TEAM</td>
         <td>SCRUM TEAM</td>
         <td>SCRUM TEAM</td>
- 
-    </tr>
-    <tr>
+  <tr>
         <td> João Lopes</td>
         <td> Debora Taira</td>
         <td> Ali Mohamed</td>
@@ -24,6 +22,6 @@ Grupo de API da FATEC de SJC
         <td> Marina Angela</td>
         <td> Rita Hecht</td>
         
-    </tr>
+  
 </table>
 
