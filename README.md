@@ -20,7 +20,7 @@ Grupo de API da FATEC de SJC
         <td> Italo Bonilha</td>
         <td> Brener Freire</td>
         <td> Marina Angela</td>
-        <td> Rita Hecht</td>
+        <td> Pedro Seraggi</td>
         
   
 </table>
