@@ -19,7 +19,7 @@ Grupo de API da FATEC de SJC
         <td> Debora Taira</td>
         <td> Marina Angela</td>
         <td> Brener Freire </td>
-        <td> Gabriel de Angelis </td>
+        <td> Gabriel Angelis </td>
         <td> Italo Bonilha</td>
         <td> João Lopes </td>
         <td> Mariana Veloso </td>
