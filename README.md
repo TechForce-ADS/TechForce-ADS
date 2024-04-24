@@ -13,14 +13,17 @@ Grupo de API da FATEC de SJC
         <td>SCRUM TEAM</td>
         <td>SCRUM TEAM</td>
         <td>SCRUM TEAM</td>
+        <td>SCRUM TEAM</td>
   <tr>
         <td> Debora Taira</td>
         <td> Marina Angela</td>
+        <td> Isabel Reis </td>
         <td> Brener Freire </td>
         <td> Italo Bonilha</td>
         <td> João Lopes </td>
         <td> Micael Leal </td>
         <td> Pedro Seraggi </td>
+        
         
   
 </table>
