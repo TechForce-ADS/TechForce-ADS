@@ -20,7 +20,7 @@ Grupo de API da FATEC de SJC
         <td> Isabel Reis </td>
         <td> Brener Freire </td>
         <td> Italo Bonilha</td>
-        <td> João Lopes </td>
+        <td>  </td>
         <td> Micael Leal </td>
         <td> Pedro Seraggi </td>
         
