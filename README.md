@@ -22,8 +22,8 @@ Grupo de API da FATEC de SJC
         <td> Francisco Quirino </td>
         <td> Gabriel Angelis</td>
         <td> Isabel Reis </td>
-        <td> Micael Leal </td>
         <td> Pedro Seraggi </td>
+        <td> Renato Passos </td>
         <td> Roberta Cristina</td>
         
         
